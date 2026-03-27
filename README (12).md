@@ -1,7 +1,5 @@
 # Statistical Distribution Analysis Project
-# video link :- https://drive.google.com/drive/folders/1kNuIGLFoAEJ53L0vOrHT2ak-hNxsohOn
-
-## Project Overview
+# Project Overview
 This project analyzes transaction data using statistical distributions and visualization techniques.
 The goal is to understand data behavior, distribution shape, and normality.
 
